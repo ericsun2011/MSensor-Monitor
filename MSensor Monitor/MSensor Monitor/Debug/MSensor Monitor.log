@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MSensor Monitor.cpp
+  MSensor MonitorDoc.cpp
+  MSensor MonitorView.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Generating Code...
+  MSensor Monitor.vcxproj -> C:\Users\zhang\OneDrive\Documents\GitHub\MSensor-Monitor\MSensor Monitor\Debug\MSensor Monitor.exe
