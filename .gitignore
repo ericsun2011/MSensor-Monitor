@@ -8,9 +8,11 @@
 *.obj
 
 # Precompiled Headers
+debug
 *.gch
 *.pch
 *.ipch
+*.pdb
 
 # Compiled Dynamic libraries
 *.so
